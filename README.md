@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=FEF7D7&height=100&animation=fadeIn&text=SJ&fontColor=F3F0F2&fontSize=90&fontAlign=80) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=87ceeb&height=200&animation=fadeIn&text=SJ&fontColor=DFE6E9&fontSize=80&fontAlign=85)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=87ceeb&height=200&animation=fadeIn&text=SJ&fontColor=fff&fontSize=80&fontAlign=85)
 
 <!-- tokyonight
 algolia
