@@ -35,7 +35,7 @@ ayu-mirage -->
 
 <div align=center>
 
-[![Si-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-jeong&hide=stars,issues&hide_border=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Si-jeong/github-readme-stats)
+[![Si-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-jeong&hide=stars&hide_border=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Si-jeong/github-readme-stats)
 
 </div>
 
