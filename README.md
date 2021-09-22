@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=FEF7D7&height=100&animation=fadeIn&text=SJ&fontColor=F3F0F2&fontSize=90&fontAlign=80) -->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=87ceeb&height=200&animation=fadeIn&text=SJ&fontColor=fff&fontSize=80&fontAlign=85)
 
 <div align=center>
@@ -23,26 +20,23 @@ Here are some ideas to get you started:
 
 </div>
 
+
+<div align=center>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonge413">
+</div>
+
 <!-- tokyonight
 algolia
 nightowl
 blue-green
 ayu-mirage -->
 
-<!-- https://github.com/kyechan99/capsule-render -->
-
-<!-- [![Si-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-jeong&hide=stars,issues&hide_border=true&count_private=true&show_icons=true&bg_color=30,000,0f9b0f&title_color=fff&text_color=fff)](https://github.com/Si-jeong/github-readme-stats) -->
 
 <div align=center>
 
 [![Si-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-jeong&hide=stars&hide_border=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Si-jeong/github-readme-stats)
 
 </div>
-
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md -->
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<!-- https://uigradients.com/#BlackRos%C3%A9 -->
-<!-- https://www.resharp.co.kr/64 -->
 
 
 
