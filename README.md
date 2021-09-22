@@ -46,4 +46,4 @@ ayu-mirage -->
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=81ECEC&height=100)
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=81ECEC&height=200)
