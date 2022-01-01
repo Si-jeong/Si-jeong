@@ -87,10 +87,8 @@ algolia
 nightowl
 blue-green
 ayu-mirage -->
-
 <!-- [![Si-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-jeong&hide=stars&hide_border=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Si-jeong/github-readme-stats) -->
-
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-jeong&layout=compact&theme=tokyonight) -->
 
 <!-- <div align=center>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonge413">
