@@ -82,6 +82,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp 
 </p>
 
+<!-- If you wonder how I study alone?  -->
+<!-- If you wonder what kind of project I've been working on?  -->
+
 <!-- tokyonight
 algolia
 nightowl
