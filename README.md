@@ -11,8 +11,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+분: 1, 12
+다홍: 3, 5, 25
+살구: 3
+갈: 16, 20
+베이지: 17
+노: 11, 21, 24
+초: 14
+연두: 26, 6, 10
+민트: 0, 7, 8
+하늘: 4, 9
+회: 18, 27, 28
+찐회: 19
+
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=timeGradient&height=200&animation=fadeIn&text=Hi,%20I'm%20Si-jeong&fontColor=fff&fontSize=50&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&customColorList=26,6,10,0,7,8&height=200&animation=fadeIn&text=Hi,%20I'm%20Si-jeong&fontColor=fff&fontSize=50&fontAlign=50)
 
 <!-- <div align=center>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonge413">
@@ -32,5 +46,5 @@ ayu-mirage -->
 </div>
 
  -->
-
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=timeGradient&height=300)
+<!-- 
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=auto&customColorList=0&height=300) -->
