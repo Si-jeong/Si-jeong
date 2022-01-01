@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 찐회: 19
 
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&customColorList=26,6,10&height=200&animation=fadeIn&text=Hi,%20I'm%20Si-jeong&fontColor=fff&fontSize=50&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&customColorList=3,17,18&height=200&animation=fadeIn&text=Hi,%20I'm%20Si-jeong&fontColor=fff&fontSize=50&fontAlign=50)
 
 <!-- <div align=center>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonge413">
