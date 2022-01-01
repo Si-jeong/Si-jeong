@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=timeGradient&height=200&animation=fadeIn&text=SJ&fontColor=fff&fontSize=80&fontAlign=85)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=timeGradient&height=200&animation=fadeIn&text=Hi,%20I'm%20Si-jeong&fontColor=fff&fontSize=50&fontAlign=50)
 
 <!-- <div align=center>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonge413">
