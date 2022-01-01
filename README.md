@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&height=200&animation=fadeIn&text=SJ&fontSize=80&fontAlign=85)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=timeGradient&height=200&animation=fadeIn&text=SJ&fontColor=fff&fontSize=80&fontAlign=85)
 
 <!-- <div align=center>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonge413">
@@ -32,5 +32,5 @@ ayu-mirage -->
 </div>
 
  -->
-<!-- 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=81ECEC&height=200) -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=timeGradient&height=300)
