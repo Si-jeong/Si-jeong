@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 찐회: 19
 
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&customColorList=11,21,24&height=200&animation=fadeIn&text=Hi,%20I'm%20Si-jeong&fontColor=fff&fontSize=50&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&customColorList=24&height=180&animation=fadeIn&text=Hi,%20I'm%20Si-jeong&fontColor=fff&fontSize=50&fontAlign=50)
 
 <!-- <div align=center>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonge413">
@@ -46,5 +46,5 @@ ayu-mirage -->
 </div>
 
  -->
-<!-- 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=auto&customColorList=0&height=300) -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=auto&customColorList=11&height=200)
