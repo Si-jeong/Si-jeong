@@ -95,12 +95,12 @@ ayu-mirage -->
 </div>
  -->
 
-
+<!-- 
 </br>
-<!-- <h3 align="center"><b> Contact </b></h3> -->
+<h3 align="center"><b> Contact </b></h3>
 <p align="center">
 <a href="ssonge413@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp 
-</p>
+</p> -->
 
 
 
