@@ -79,25 +79,32 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp 
 </p>
 
-<!-- <div align=center>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonge413">
-</div>
- -->
 <!-- tokyonight
 algolia
 nightowl
 blue-green
 ayu-mirage -->
 
-<!-- 
-<div align=center>
+<!-- [![Si-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-jeong&hide=stars&hide_border=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Si-jeong/github-readme-stats) -->
 
-[![Si-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-jeong&hide=stars&hide_border=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Si-jeong/github-readme-stats)
 
+
+<!-- <div align=center>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonge413">
 </div>
  -->
+
+
+</br>
+<!-- <h3 align="center"><b> Contact </b></h3> -->
+<p align="center">
+<a href="ssonge413@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp 
+</p>
+
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=auto&customColorList=11&height=200)
