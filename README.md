@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
 <!-- <p align="center">
-  🔭 Techs that I'm currently working on ...
+  🔭 Techs that I'm currently working on
 </p>
 <p align="center">
 </p> -->
 
 <p align="center">
-  🌱 Techs that I'm currently learning ...
+  🌱 Techs that I'm currently learning
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  😎 Techs that I'm good at ...
+  😎 Techs that I'm good at
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
- 🤓 Techs that I've used at least once ...
+ 🤓 Techs that I've used at least once
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
