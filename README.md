@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 회: 18, 27, 28
 찐회: 19
 
+
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&customColorList=24&height=180&animation=fadeIn&text=Hi,%20I'm%20Si-jeong&fontColor=fff&fontSize=50&fontAlign=50)
 
