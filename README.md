@@ -112,7 +112,7 @@ ayu-mirage -->
 </br>
 
 <div align="center"> 
-<h4 align="center"><b> Please Contact me by... </b></h3>
+<h4 align="center"><b> Please Contact me at... </b></h3>
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssonge413@gmail.com)](mailto:ssonge413@gmail.com) -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssonge413@gmail.com)](mailto:ssonge413@gmail.com)
