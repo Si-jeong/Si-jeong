@@ -104,12 +104,18 @@ ayu-mirage -->
 
 <!-- 
 </br>
-<h3 align="center"><b> Contact </b></h3>
+
 <p align="center">
 <a href="ssonge413@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp 
 </p> -->
 
+</br>
 
+<div align="center"> 
+<h4 align="center"><b> Please Contact me by... </b></h3>
 
+<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssonge413@gmail.com)](mailto:ssonge413@gmail.com) -->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssonge413@gmail.com)](mailto:ssonge413@gmail.com)
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=auto&customColorList=11&height=200)
