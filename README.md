@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&customColorList=24&height=180&animation=fadeIn&text=Hi,%20I'm%20Si-jeong&fontColor=fff&fontSize=50&fontAlign=50)
 
-<h3 align="center"> 🔭 I'm interested in...</h4>
-<p align="center"> Computer Vision and DevOps </p>
+<h4 align="center"> 🔭 I'm interested in...</h4>
+<p align="center"> Computer Vision & DevOps </p>
 
 </br>
 
@@ -111,7 +111,7 @@ ayu-mirage -->
 </br>
 
 <div align="center"> 
-<h4 align="center"><b> Please Contact me at... </b></h3>
+<h4 align="center"><b> Please Contact me at... </b></h4>
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssonge413@gmail.com)](mailto:ssonge413@gmail.com) -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssonge413@gmail.com)](mailto:ssonge413@gmail.com)
