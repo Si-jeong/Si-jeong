@@ -24,15 +24,18 @@ Here are some ideas to get you started:
 : 18, 27, 28
 찐그레이: 19
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&customColorList=24&height=180&animation=fadeIn&text=Hi,%20I'm%20Si-jeong&fontColor=fff&fontSize=50&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&customColorList=9&height=180&animation=fadeIn&text=Hi,%20I'm%20Si-jeong&fontColor=fff&fontSize=50&fontAlign=50)
 
-<h4 align="center"> 🔭 I'm interested in...</h4>
-<p align="center"> Computer Vision & DevOps </p>
+<!-- <h4 align="center"> 🔭 I'm interested in...</h4>
+<p align="center"> Computer Vision & DevOps </p> -->
 
-</br>
 
+
+
+<!-- </br>
+ -->
 <!-- https://simpleicons.org/?q=sass -->
-<h3 align="center"><b>✨ Tech Stack ✨</b></h3>
+<!-- <h3 align="center"><b>✨ Tech Stack ✨</b></h3>
 
 <p align="center">
   🌱 Techs that I'm currently learning ...
@@ -58,7 +61,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<!--  🤓 Techs that I've used at least once -->
  🤓 Techs that I've used ... 
 </p>
 <p align="center">
@@ -82,36 +84,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp 
 </p>
 
-<!-- If you wonder how I study alone?  -->
-<!-- If you wonder what kind of project I've been working on?  -->
-
-<!-- tokyonight
-algolia
-nightowl
-blue-green
-ayu-mirage -->
-<!-- [![Si-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-jeong&hide=stars&hide_border=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Si-jeong/github-readme-stats) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-jeong&layout=compact&theme=tokyonight) -->
-
-<!-- <div align=center>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonge413">
-</div>
- -->
-
-<!-- 
-</br>
-
-<p align="center">
-<a href="ssonge413@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp 
-</p> -->
-
 </br>
 
 <div align="center"> 
 <h4 align="center"><b> Please Contact me at... </b></h4>
 
-<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssonge413@gmail.com)](mailto:ssonge413@gmail.com) -->
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssonge413@gmail.com)](mailto:ssonge413@gmail.com)
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=auto&customColorList=11&height=200)
+ -->
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=auto&customColorList=9&height=200) -->
