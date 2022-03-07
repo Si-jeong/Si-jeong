@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 : 18, 27, 28
 찐그레이: 19
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&customColorList=9&height=180&animation=fadeIn&text=Hi,%20I'm%20Si-jeong&fontColor=fff&fontSize=50&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&customColorList=4&height=180&animation=fadeIn&text=Hi,%20I'm%20Si-jeong&fontColor=fff&fontSize=50&fontAlign=50)
 
 <!-- <h4 align="center"> 🔭 I'm interested in...</h4>
 <p align="center"> Computer Vision & DevOps </p> -->
