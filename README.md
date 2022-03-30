@@ -59,7 +59,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/></a> &nbsp  
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"/></a> &nbsp 
+
+
 </p>
+
+<div align="center">
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonge413)](https://solved.ac/ssonge413)
+
+</div>
+
 <div align="center">
 <h3><b> 🐳 Please Contact me at 🐠 </b></h3>
 
