@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 : 18, 27, 28
 찐그레이: 19
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=30D5C8&customColorList=21&height=180&animation=fadeIn&text=Hi,%20I'm%20Si-jeong%20&fontColor=fff&fontSize=50&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=slice&section=header&color=30D5C8&customColorList=21&height=180&animation=fadeIn&text=Hi,%20I'm%20Si-jeong%20&rotate=10&fontColor=fff&fontSize=50&fontAlign=60&fontAlignY=35)
 
 <div align="center">
   <h3> 🔭 I'm interested in 🔭 </h3>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- https://simpleicons.org/?q=sass -->
-<h3 align="center"><b>✨💎 Tech Stack 💎✨</b></h3>
+<h3 align="center"><b>✨ Tech Stack ✨</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp  
