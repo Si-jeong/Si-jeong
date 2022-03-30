@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 : 18, 27, 28
 찐그레이: 19
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&section=header&color=30D5C8&customColorList=21&height=180&animation=fadeIn&text=Hi,%20I'm%20Si-jeong%20&rotate=11&fontColor=fff&fontSize=50&fontAlign=60&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=slice&section=header&color=30D5C8&customColorList=21&height=150&animation=fadeIn&text=Hi,%20I'm%20Si-jeong%20&rotate=10&fontColor=fff&fontSize=40&fontAlign=60&fontAlignY=35)
 
 <div align="center">
   <h3> 🔭 I'm interested in 🔭 </h3>
@@ -77,4 +77,4 @@ Here are some ideas to get you started:
  
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&section=footer&color=CAFCEA&customColorList=21&height=160)
+![footer](https://capsule-render.vercel.app/api?type=wave&section=footer&color=CAFCEA&customColorList=21&height=130)
