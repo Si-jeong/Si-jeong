@@ -24,14 +24,16 @@ Here are some ideas to get you started:
 : 18, 27, 28
 찐그레이: 19
 -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&customColorList=21&height=180&animation=fadeIn&text=Hi,%20I'm%20Si-jeong%20&fontColor=fff&fontSize=50&fontAlign=50) -->
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=30D5C8&customColorList=21&height=180&animation=fadeIn&text=Hi,%20I'm%20Si-jeong%20&fontColor=fff&fontSize=50&fontAlign=50)
 
-🔭 I'm interested in `Computer Vision` & `DevOps`
-
+<div align="center">
+  <h3> 🔭 I'm interested in 🔭 </h3>
+  Computer Vision & DevOps
+</div>
 
 <!-- https://simpleicons.org/?q=sass -->
-<h3><b>✨ Tech Stack ✨</b></h3>
-<p>
+<h3 align="center"><b>✨💎 Tech Stack 💎✨</b></h3>
+<p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp  
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp  
@@ -58,9 +60,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"/></a> &nbsp 
 </p>
-
-<h3><b> 🌷 Please Contact me at... </b></h3>
+<div align="center">
+<h3><b> 🐳 Please Contact me at 🐠 </b></h3>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssonge413@gmail.com)](mailto:ssonge413@gmail.com)
+ 
+</div>
 
-<!-- ![footer](https://capsule-render.vercel.app/api?type=wave&section=footer&color=auto&customColorList=21&height=200) -->
+![footer](https://capsule-render.vercel.app/api?type=wave&section=footer&color=CAFCEA&customColorList=21&height=200)
