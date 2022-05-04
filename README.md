@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 : 18, 27, 28
 찐그레이: 19
 -->
+
 ![header](https://capsule-render.vercel.app/api?type=slice&section=header&color=30D5C8&customColorList=21&height=150&animation=fadeIn&text=Hi,%20I'm%20Si-jeong%20&rotate=10&fontColor=fff&fontSize=46&fontAlign=60&fontAlignY=35)
 
 <div align="center">
@@ -59,8 +60,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> &nbsp  
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"/></a> &nbsp 
-
-
 </p>
 
 <div align="center">
