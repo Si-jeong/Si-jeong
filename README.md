@@ -14,7 +14,6 @@
 찐그레이: 19
 -->
 
-
 ![header](https://capsule-render.vercel.app/api?type=slice&section=header&color=30D5C8&customColorList=21&height=150&animation=fadeIn&text=Hi,%20I'm%20Si-jeong%20&rotate=10&fontColor=fff&fontSize=46&fontAlign=60&fontAlignY=35)
 
 <div align="center">
