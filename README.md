@@ -28,6 +28,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonge413)](https://solved.ac/ssonge413)
 
+
 <b> 👋 Contact me at </b> 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssonge413@gmail.com)](mailto:ssonge413@gmail.com) 
 </div>
