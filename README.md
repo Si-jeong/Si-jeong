@@ -3,7 +3,11 @@
 <div align="center">
 <b> 🔭 I'm interested in  🔭 </b>
 </br>
-<code>Computer Vision</code> · <code>3D Generative Models</code> · <code>Probabilistic ML</code> 
+<code>Computer Vision</code>
+</br>
+<code>3D Generative Models</code> 
+</br>
+<code>Probabilistic ML</code> 
 
 </br>
 </br>
